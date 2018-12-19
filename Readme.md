@@ -2,7 +2,7 @@
 
 ### Authors: [Vachik S. Dave](https://www.linkedin.com/in/vachik-dave), Nesreen Ahmed and Mohammad Al Hasan.
 
-This code provides frequency of local graphlets upto size 5 for all the edges for the given graph. 
+This code provides frequency of local graphlets upto size 5 for the given graph. 
 
 Vachik S. Dave, Nesreen Ahmed and Mohammad Al Hasan. “[E-CLoG: Counting Edge-Centric Local Graphlets](https://ieeexplore.ieee.org/document/8257974)”, IEEE International Conference on Big Data (IEEE BigData), Dec-2017.
  
